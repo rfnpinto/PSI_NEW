@@ -22,6 +22,6 @@ namespace Tarefas.Models
         public string Nota { get; set; }
 
         [Required]
-        public bool Lido { get; set; } 
+        public bool Lido { get; set; }
     }
 }
